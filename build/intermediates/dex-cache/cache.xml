@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\Users\PELLO_ALTADILL\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-v4\18.0.0\support-v4-18.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="44ec51e9d395a47aab135e5e1b556c0007442156">
+        <dex dex="C:\code\tmp\a\AndroidService\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-v4-18.0.0_542682739f2e11bc753ecfe5474856521f5a3cfa\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\code\tmp\a\AndroidService\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="3826f7f17650846e9d5c289c15d484a70beccd35">
+        <dex dex="C:\code\tmp\a\AndroidService\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_642d7a265c41a7746dc019a88e4bbec47fc3514d\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\code\tmp\a\AndroidService\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="c35ae39640fd7fdbad72e332a94ff8068e234668">
+        <dex dex="C:\code\tmp\a\AndroidService\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_8db7f52cf1a648ca7c6729b7360aa5e89263cb9a\classes.dex" />
+    </item>
+
+</items>
